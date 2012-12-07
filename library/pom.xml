@@ -6,18 +6,18 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.slidingmenu</groupId>
     <artifactId>slidingmenu</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.2-SNAPSHOT</version>
     <packaging>apklib</packaging>
     <name>SlidingMenu</name>
 
     <distributionManagement>
         <repository>
             <id>nexus-releases</id>
-            <url>http://localhost:8081/nexus/content/repositories/releases</url>
+            <url>http://108.171.174.175:8081/nexus/content/repositories/releases</url>
         </repository>
         <snapshotRepository>
             <id>nexus-snapshots</id>
-            <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
+            <url>http://108.171.174.175:8081/nexus/content/repositories/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 
